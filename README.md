@@ -19,6 +19,6 @@
       - --help - to check available options ( help ).
       - --replicas - to adjust the number of replicas for the deployment. Default is 1.
 
-3. skaffold from google
+3. skaffold from google (https://skaffold.dev/)
   - skaffold init - this will create the skaffold.yml file
   - once you have the file run commands like build , dev , deploy to perform various operations.
