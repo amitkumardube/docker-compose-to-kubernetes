@@ -11,6 +11,7 @@
 
 2. kompose (https://kompose.io/)
   - command to use is kompose convert with different flags
+  - kompose convert [flags]
   - flags are
       - --file  - to pass different file other than default docker-compose.yml.
       - --out - to provide the output directory to save files to.
